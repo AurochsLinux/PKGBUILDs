@@ -1,0 +1,7 @@
+[1/2] Linking CXX static library lib/libc++abi.a
+[2/2] cd /build/libc++/src/build/projects/libcxxabi/src && /usr/bin/cmake -DCMAKE_INSTALL_COMPONENT=cxxabi -P /build/libc++/src/build/projects/libcxxabi/cmake_install.cmake
+-- Install configuration: "Release"
+-- Installing: /build/libc++/pkg/libc++abi/usr/lib/libc++abi.so.1.0
+-- Installing: /build/libc++/pkg/libc++abi/usr/lib/libc++abi.so.1
+-- Installing: /build/libc++/pkg/libc++abi/usr/lib/libc++abi.so
+-- Installing: /build/libc++/pkg/libc++abi/usr/lib/libc++abi.a
