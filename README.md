@@ -17,7 +17,7 @@ Contributing a new package is as simple as forking the repo making the PKGBUILD 
 
 
 ### Non-Technical Contributions
-If you like my work you can contribute by donating at [Ko-Fi](https://ko-fi.com/patris)
+If you like my work you can contribute by donating at [Ko-Fi](https://ko-fi.com/patris)you can also help out by clicking the Librepay links above!
 
 
 ### Contacting The Project
