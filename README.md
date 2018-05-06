@@ -1,3 +1,6 @@
+
+[![Liberapay receiving](https://img.shields.io/liberapay/receives/Changaco.svg?style=for-the-badge)](https://liberapay.com/Aurochs/)
+---
 # PKGBUILDs
 
 ### Description
