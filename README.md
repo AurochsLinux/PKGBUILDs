@@ -1,5 +1,4 @@
 # PKGBUILDs
-<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Help Me Develop Aurochs', '#CFB53B', 'A011L9B');kofiwidget2.draw();</script> 
 
 ### Description
 This is the repository for the **Aurochs Linux** project currently featuring:
