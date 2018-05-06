@@ -1,5 +1,5 @@
 
-[![Liberapay receiving](https://img.shields.io/liberapay/receives/Changaco.svg?style=for-the-badge)](https://liberapay.com/Aurochs/)
+[![Liberapay receiving](https://img.shields.io/liberapay/receives/Aurochs.svg?style=for-the-badge)](https://liberapay.com/Aurochs/)[![Liberapay goal progress](https://img.shields.io/liberapay/goal/Aurochs.svg?style=for-the-badge)](https://liberapay.com/Aurochs/)
 ---
 # PKGBUILDs
 
