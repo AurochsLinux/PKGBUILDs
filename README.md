@@ -7,9 +7,14 @@
 This is the repository for the **Aurochs Linux** project currently featuring:
 
 1. Aurman - Aur Helper for Arch Linux
-2. Libc++ - C++ Library is a dependency for one of our other packages
-3. Discord - A real-time voice/text chat application for gamers.
+2. Discord - A real-time voice/text chat application for gamers.
+    * Libc++ - C++ Library is a dependency for Discord
 
+### Using the Repo on non-Aurochs systems
+First you will need to import my key which you can do easily `pacman --recv-key 6709A868`
+Then add to your `pacman.conf`
+`[aurochs]
+Server = https://github.com/AurochsLinux/PKGBUILDs/releases/download/Release/`
 
 ### Contributing New Packages
 
