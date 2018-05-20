@@ -16,6 +16,7 @@ Then add to your `pacman.conf`
 
 
 `[aurochs]`
+
 `Server = https://github.com/AurochsLinux/PKGBUILDs/releases/download/Release/`
 
 
