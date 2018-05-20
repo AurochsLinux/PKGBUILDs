@@ -13,9 +13,9 @@ This is the repository for the **Aurochs Linux** project currently featuring:
 ### Using the Repo on non-Aurochs systems
 First you will need to import my key which you can do easily `pacman --recv-key 6709A868`
 Then add to your `pacman.conf`
-`[aurochs]
+```[aurochs]
 
-Server = https://github.com/AurochsLinux/PKGBUILDs/releases/download/Release/`
+Server = https://github.com/AurochsLinux/PKGBUILDs/releases/download/Release/```
 
 ### Contributing New Packages
 
