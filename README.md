@@ -11,7 +11,7 @@ This is the repository for the **Aurochs Linux** project currently featuring:
     * Libc++ - C++ Library is a dependency for Discord
 
 ### Using the Repo on non-Aurochs systems
-First you will need to import my key which you can do easily `pacman --recv-key 6709A868`
+First you will need to import my key which you can do easily `pacman-key --recv-key 6709A868`
 Then add to your `pacman.conf`
 
 
